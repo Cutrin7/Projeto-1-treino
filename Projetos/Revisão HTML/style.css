@@ -1,0 +1,22 @@
+body{
+   background-color: gray;
+}
+
+img{
+   width: 120px;
+   height: 120px;
+   stroke: black;
+   border-radius: 100px;
+   margin-left: 600px;
+}
+
+p{
+   font-size: 20px;
+   text-align: center;
+   margin-left: 200px;
+   margin-right: 200px;
+}
+
+footer{
+   padding-top: 300px;
+}
